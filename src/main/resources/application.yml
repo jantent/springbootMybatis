@@ -1,6 +1,0 @@
-server:
-  port: 80
-spring:
-  profiles:
-    # 外置jdbc配置文件
-    active: jdbc,log
